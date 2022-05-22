@@ -16,25 +16,3 @@ It uses Room Library to save news as favorites and loads and removes the data fr
 The main aim of this sample app is show how to use the new Architecture Guidelines with Kotlin.
 
 
-## Screenshots
-
-<img align="center" src="./screenshots/breaking_news.gif" /><br/>
-
-<img align="center" src="./screenshots/delete_saved_articles.gif" />
-<br/>
-
-<img align="center"  height="750px" src="./screenshots/article_detils.jpg" />
-<br/>
-
-<img align="center"  height="750px" src="./screenshots/saved_news.jpg" />
-<br/>
-
-<img align="center"  height="750px" src="./screenshots/search_news.jpg" />
-<br/>
-
-<img align="center"  height="750px" src="./screenshots/breaking_news_dark.jpg" />
-<br/>
-
-<img align="center"  height="750px" src="./screenshots/saved_dark.jpg" />
-<br/>
-
